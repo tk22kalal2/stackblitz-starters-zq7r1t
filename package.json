@@ -1,0 +1,12 @@
+{
+  "name": "pdf-processor",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "servor --reload"
+  },
+  "dependencies": {
+    "servor": "^4.0.2",
+    "tinymce": "^6.8.2"
+  }
+}
